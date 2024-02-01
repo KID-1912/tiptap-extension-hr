@@ -1,0 +1,25 @@
+{
+  "name": "tiptap-extension-hr",
+  "version": "1.0.0",
+  "description": "Extension to add dividers(horizontal) to your tiptap content.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "divider",
+    "hr"
+  ],
+  "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-hr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-hr.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/core": "^2.2.1"
+  }
+}
